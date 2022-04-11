@@ -1,0 +1,42 @@
+*{
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.mt-125{
+    margin-top: 1.25rem;
+}
+
+.fs-12{
+    font-size: 1.20rem;
+}
+
+.fs-3{
+    font-size: 3rem;
+}
+
+.fs-15{
+    font-size: 1.50rem;
+}
+
+.mt-6{
+    margin-top: 6rem;
+}
+
+.br-075{
+    border-radius: 0.75rem;
+}
+
+.cpointer{
+    cursor: pointer;
+}
+
+.bg-babyblue{
+    background-color: #CBE6EF;
+}
+
+.bg-aquamarine{
+    background-color: #71B1C5;
+}
+
+.bg-navyblue{
+    background-color: #003366;
+}
