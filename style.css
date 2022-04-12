@@ -1,42 +1,104 @@
-*{
+* {
     font-family: 'Hind Siliguri', sans-serif;
 }
-.mt-125{
+
+.mt-125 {
     margin-top: 1.25rem;
 }
 
-.fs-12{
+.fs-1 {
+    font-size: 1rem;
+}
+
+.fs-12 {
     font-size: 1.20rem;
 }
 
-.fs-3{
+.fs-3 {
     font-size: 3rem;
 }
 
-.fs-15{
+.fs-15 {
     font-size: 1.50rem;
 }
 
-.mt-6{
+.mt2 {
+    margin-top: 2rem;
+}
+
+.mt-6 {
     margin-top: 6rem;
 }
 
-.br-075{
+.br-075 {
     border-radius: 0.75rem;
 }
 
-.cpointer{
+.cpointer {
     cursor: pointer;
 }
 
-.bg-babyblue{
+.bg-babyblue {
     background-color: #CBE6EF;
 }
 
-.bg-aquamarine{
+.bg-aquamarine {
     background-color: #71B1C5;
 }
 
-.bg-navyblue{
+.bg-navyblue {
     background-color: #003366;
+}
+
+.pl5 {
+    padding-left: 5rem;
+}
+
+.pr25 {
+    padding-right: 25rem;
+}
+
+.pr5 {
+    padding-right: 5rem;
+}
+
+.mr5 {
+    margin-right: 5rem;
+}
+
+.ml5 {
+    margin-left: 5rem;
+}
+
+ul.tick-list {
+    padding-left: 3rem;
+}
+
+ul.tick-list li {
+    list-style: none;
+    background-image: url(.//Images/Bluetick.svg);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 1rem;
+    padding-left: 1.5rem;
+    margin-top: 0.5rem;
+    color: #6c757d;
+}
+
+ul.nolist li {
+    list-style: none;
+    margin-top: 0.75rem;
+}
+
+.text-grey{
+    color: #CBE6EF;
+}
+
+a:hover{
+    color: #CBE6EF;
+}
+
+hr{
+    background-color: #FFFAFA;
+    opacity: 0.1;
 }
